@@ -44,6 +44,7 @@ Gasto Total = Consumo (L) × Preço do Litro (R$)
 ## 🛠️ Tecnologias utilizadas
 
 - [Kotlin](https://kotlinlang.org/) — linguagem principal de desenvolvimento
+- [Lottie](https://lottiefiles.com/pt/) — site de animações em formato json
 - [XML](https://developer.android.com/develop/ui/views/layout/declaring-layout) — construção das interfaces (layouts)
 - [Android Studio](https://developer.android.com/studio) — IDE oficial para desenvolvimento Android
 - Android SDK (Views tradicionais)
