@@ -29,7 +29,7 @@ Gasto Total = Consumo (L) × Preço do Litro (R$)
 
 | Splash | Boas-vindas |
 |:---:|:---:|
-| <img width="250" height="2856" alt="Image" src="https://github.com/user-attachments/assets/cf5ac650-2c6a-41a9-84d9-930da0c8299b" /> | <img src="screenshots/home.png" width="250"/> |
+| <img width="250" height="400" alt="Image" src="https://github.com/user-attachments/assets/cf5ac650-2c6a-41a9-84d9-930da0c8299b" /> | <img src="screenshots/home.png" width="250"/> |
 
 | Consumo em Litros | Distância em KM |
 |:---:|:---:|
