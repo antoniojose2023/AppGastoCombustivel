@@ -132,5 +132,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Desenvolvido com 💜 por **[Seu Nome]**
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu-usuario)
+- GitHub: [@antoniojose2023](https://github.com/antoniojose2023)
+- Repositório: [AppGastoCombustivel](https://github.com/antoniojose2023/AppGastoCombustivel)
