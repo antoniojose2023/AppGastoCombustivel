@@ -29,15 +29,15 @@ Gasto Total = Consumo (L) × Preço do Litro (R$)
 
 | Splash | Boas-vindas |
 |:---:|:---:|
-| <img width="250" height="400" alt="Image" src="https://github.com/user-attachments/assets/cf5ac650-2c6a-41a9-84d9-930da0c8299b" /> | <img src="screenshots/home.png" width="250"/> |
+| <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/cf5ac650-2c6a-41a9-84d9-930da0c8299b" /> | <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/90f16b89-377c-4232-8757-b3832c402b44" /> |
 
 | Consumo em Litros | Distância em KM |
 |:---:|:---:|
-| <img src="screenshots/consumo_em_litros.png" width="250"/> | <img src="screenshots/distancia_em_km.png" width="250"/> |
+| <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/71c173f6-2e2d-49c0-8297-b01c723d86f8" /> | <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/87606735-d3d8-4102-b8b7-2708a7961118" /> |
 
 | Preço do Combustível | Resultado |
 |:---:|:---:|
-| <img src="screenshots/preco_combustivel.png" width="250"/> | <img src="screenshots/resultado.png" width="250"/> |
+| <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/a170f939-d2a7-4ba3-84f1-93aad5cab6bc" /> | <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/38b0a26b-1788-4519-8437-d3dacfa605f8" /> |
 
 ---
 
