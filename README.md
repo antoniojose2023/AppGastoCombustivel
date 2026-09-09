@@ -33,7 +33,7 @@ Gasto Total = Consumo (L) × Preço do Litro (R$)
 
 | Consumo em Litros | Distância em KM |
 |:---:|:---:|
-| <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/71c173f6-2e2d-49c0-8297-b01c723d86f8" /> | <img width="1280" height="2856" alt="Image" src="https://github.com/user-attachments/assets/87606735-d3d8-4102-b8b7-2708a7961118" /> |
+| <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/71c173f6-2e2d-49c0-8297-b01c723d86f8" /> | <img width="250" height="500" alt="Image" src="https://github.com/user-attachments/assets/87606735-d3d8-4102-b8b7-2708a7961118" /> |
 
 | Preço do Combustível | Resultado |
 |:---:|:---:|
